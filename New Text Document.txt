@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=5EY6JFptZgw&t=284s
+
+
+'.vercel.app','.now.sh','127.0.0.1','localhost'
